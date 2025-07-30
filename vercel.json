@@ -20,6 +20,10 @@
       "destination": "backend/server.js"
     },
     {
+      "source": "/blog/(.*)",
+      "destination": "/index.html"
+    },
+    {
       "source": "/(.*)",
       "destination": "/index.html"
     }

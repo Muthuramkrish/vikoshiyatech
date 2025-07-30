@@ -9,6 +9,7 @@ import Privacy from './pages/Privacy'
 import Terms from './pages/Terms'
 import WebDevelopment from './pages/WebDevelopment'
 import QualityAssurance from './pages/QualityAssurance'
+import BlogPost from './pages/BlogPost'
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
         <Route path="/terms" element={<Terms />} />
         <Route path="/web-development" element={<WebDevelopment />} />
         <Route path="/quality-assurance" element={<QualityAssurance />} />
+        <Route path="/blog/:id" element={<BlogPost />} />
       </Routes>
     </div>
   )
