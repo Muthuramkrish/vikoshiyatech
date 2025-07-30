@@ -17,7 +17,7 @@ const Blog = () => {
       excerpt: "Discover recent achievements, new partnerships, and exciting projects at Vikoshiya Technologies. See how we're growing and innovating for our clients.",
       date: "January 10, 2024",
       category: "Company News",
-      image: "https://images.unsplash.com/photo-1559136555-9303baea8ebd?auto=format&fit=crop&w=1200&q=80"
+      image: "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=1200&q=80"
     },
     {
       id: 3,
@@ -25,7 +25,7 @@ const Blog = () => {
       excerpt: "At Vikoshiya Technologies, we empower organizations with end-to-end IT solutions—custom web development, robust QA, and seamless integrations.",
       date: "January 5, 2024",
       category: "IT Services",
-      image: "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?auto=format&fit=crop&w=1200&q=80"
+      image: "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=1200&q=80"
     }
   ]
 
