@@ -33,7 +33,7 @@ const BlogPost = () => {
       `,
       date: "January 15, 2024",
       category: "Web Development",
-      image: "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/dd1217ef-0fd1-4724-b058-ab7fbd3c7796.png",
+      image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1200&q=80",
       author: "Vikoshiya Team"
     },
     {
@@ -60,7 +60,7 @@ const BlogPost = () => {
       `,
       date: "January 10, 2024",
       category: "Company News",
-      image: "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/72f906f1-d94a-4ffd-8387-cd1f1f95365c.png",
+      image: "https://images.unsplash.com/photo-1559136555-9303baea8ebd?auto=format&fit=crop&w=1200&q=80",
       author: "Vikoshiya Team"
     },
     {
@@ -87,7 +87,7 @@ const BlogPost = () => {
       `,
       date: "January 5, 2024",
       category: "IT Services",
-      image: "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/d9b2b15d-dbe0-4356-8ff3-ccb6471aae1d.png",
+      image: "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?auto=format&fit=crop&w=1200&q=80",
       author: "Vikoshiya Team"
     }
   ]
@@ -169,7 +169,7 @@ const BlogPost = () => {
                   <a href="#" className="text-blue-600 hover:text-blue-700">
                     <i className="fab fa-twitter text-xl"></i>
                   </a>
-                  <a href="#" className="text-blue-600 hover:text-blue-700">
+                  <a href="https://www.linkedin.com/company/vikoshiya-technologies-pvt-ltd/posts/?feedView=all" className="text-blue-600 hover:text-blue-700">
                     <i className="fab fa-linkedin text-xl"></i>
                   </a>
                   <a href="#" className="text-blue-600 hover:text-blue-700">
